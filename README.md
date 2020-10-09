@@ -3,9 +3,13 @@
 
 
 Repository: **OOP**
+
 Type of Challenge: **Consolidation**
+
 Duration: **5 days**
+
 Deadline: **02/10/20 05:00 PM**
+
 Team challenge : **solo**
 
 
